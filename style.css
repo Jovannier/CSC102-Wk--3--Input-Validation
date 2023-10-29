@@ -1,0 +1,28 @@
+body{
+    background-color: blue;
+    color: white;
+}
+
+nav{
+    height: 6000;
+    width: 200px;
+    float: left;
+    padding: spx;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+
+}
+
+#memeImage{
+    margin-right: 200px;
+    text-align: center;
+
+}
+
+header{
+    text-align: center;
+}
